@@ -6,5 +6,5 @@ int main(void)
     int total=price*1.0625;
     printf("Your total is %f.\n");
 }
-
+// ./float.c
 
