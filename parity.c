@@ -12,3 +12,4 @@ else
 printf("odd\n");
 }
 }
+//remainder of n
